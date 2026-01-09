@@ -27,10 +27,14 @@ Conditional statements (if-else) help in decision-making by comparing values and
 ALGORITHM
 
 
-Part 1: Variable Declaration and Printing
-        Assign string values to variables.
-        Assign multiple values using multiple assignment.
-        Print variables individually and using the sep parameter.
+Part 1: 
+1)Variable Declaration and Printing
+
+2)Assign string values to variables.
+
+3)Assign multiple values using multiple assignment.
+
+4)Print variables individually and using the sep parameter.
         
 Part 2: Data Types
         Declare variables of different data types (int, float, string, boolean).
