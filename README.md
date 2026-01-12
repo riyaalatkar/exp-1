@@ -29,67 +29,52 @@ ALGORITHM
 
 Part 1:Variable Declaration and Printing
 
-1)Assign string values to variables.
-
-2)Assign multiple values using multiple assignment.
-
-3)Print variables individually and using the sep parameter.
+1.Assign string values to variables.
+2.Assign multiple values using multiple assignment.
+3.Print variables individually and using the sep parameter.
 
         
 Part 2: Data Types
 
-1)Declare variables of different data types (int, float, string, boolean).
-
-2)Use type() to display the data type of each variable.
+1.Declare variables of different data types (int, float, string, boolean).
+2.Use type() to display the data type of each variable.
 
         
 Part 3: Mathematical Operations
 
-1)Assign numeric values to variables.
-
-2)Perform arithmetic operations.
-
-3)Store results in variables and display them.
+1.Assign numeric values to variables.
+2.Perform arithmetic operations.
+3.Store results in variables and display them.
 
         
 Part 4: User Input and Operations
 
-1) Accept integer values from the user.
-
-3) Display the entered values.
-
-5) Perform arithmetic operations on user inputs.
+1. Accept integer values from the user.
+2. Display the entered values.
+3. Perform arithmetic operations on user inputs.
 
         
 Part 5: Area of a Circle
 
-1) Import the math module.
-
-2) Accept the radius from the user.
-
-3) Use the formula area = πr².
-
-4) Display the calculated area.
+1. Import the math module.
+2. Accept the radius from the user.
+3. Use the formula area = πr².
+4. Display the calculated area.
 
         
 Part 6: Logarithmic Calculation
 
-1) Import the math module.
+1. Import the math module.
+2. Accept a number from the user.
+3. Calculate its base-10 logarithm.
+4. Display the result.
 
-2) Accept a number from the user.
-
-3) Calculate its base-10 logarithm.
-
-4) Display the result.
-
-        
+       
 Part 7: Comparison Using Conditional Statements
 
-1) Accept two numbers from the user.
-
-2) Compare the values using an if-else statement.
-
-3)Display which number is greater.
+1. Accept two numbers from the user.
+2. Compare the values using an if-else statement.
+3. Display which number is greater.
 
 
 CONCLUSION
