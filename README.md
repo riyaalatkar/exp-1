@@ -27,45 +27,69 @@ Conditional statements (if-else) help in decision-making by comparing values and
 ALGORITHM
 
 
-Part 1: 
-1)Variable Declaration and Printing
+Part 1:Variable Declaration and Printing
 
-2)Assign string values to variables.
+1)Assign string values to variables.
 
-3)Assign multiple values using multiple assignment.
+2)Assign multiple values using multiple assignment.
 
-4)Print variables individually and using the sep parameter.
+3)Print variables individually and using the sep parameter.
+
         
 Part 2: Data Types
-        Declare variables of different data types (int, float, string, boolean).
-        Use type() to display the data type of each variable.
+
+1)Declare variables of different data types (int, float, string, boolean).
+
+2)Use type() to display the data type of each variable.
+
         
 Part 3: Mathematical Operations
-        Assign numeric values to variables.
-        Perform arithmetic operations.
-        Store results in variables and display them.
+
+1)Assign numeric values to variables.
+
+2)Perform arithmetic operations.
+
+3)Store results in variables and display them.
+
         
 Part 4: User Input and Operations
-        Accept integer values from the user.
-        Display the entered values.
-        Perform arithmetic operations on user inputs.
+
+1) Accept integer values from the user.
+
+3) Display the entered values.
+
+5) Perform arithmetic operations on user inputs.
+
         
 Part 5: Area of a Circle
-        Import the math module.
-        Accept the radius from the user.
-        Use the formula area = πr².
-        Display the calculated area.
+
+1) Import the math module.
+
+2) Accept the radius from the user.
+
+3) Use the formula area = πr².
+
+4) Display the calculated area.
+
         
 Part 6: Logarithmic Calculation
-        Import the math module.
-        Accept a number from the user.
-        Calculate its base-10 logarithm.
-        Display the result.
+
+1) Import the math module.
+
+2) Accept a number from the user.
+
+3) Calculate its base-10 logarithm.
+
+4) Display the result.
+
         
 Part 7: Comparison Using Conditional Statements
-        Accept two numbers from the user.
-        Compare the values using an if-else statement.
-        Display which number is greater.
+
+1) Accept two numbers from the user.
+
+2) Compare the values using an if-else statement.
+
+3)Display which number is greater.
 
 
 CONCLUSION
