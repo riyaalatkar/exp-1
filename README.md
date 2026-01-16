@@ -29,22 +29,22 @@ ALGORITHM
 
 Part 1:Variable Declaration and Printing
 
-1.Assign string values to variables.
-2.Assign multiple values using multiple assignment.
-3.Print variables individually and using the sep parameter.
+1. Assign string values to variables.
+2. Assign multiple values using multiple assignment.
+3. Print variables individually and using the sep parameter.
 
         
 Part 2: Data Types
 
-1.Declare variables of different data types (int, float, string, boolean).
-2.Use type() to display the data type of each variable.
+1. Declare variables of different data types (int, float, string, boolean).
+2. Use type() to display the data type of each variable.
 
         
 Part 3: Mathematical Operations
 
-1.Assign numeric values to variables.
-2.Perform arithmetic operations.
-3.Store results in variables and display them.
+1. Assign numeric values to variables.
+2. Perform arithmetic operations.
+3. Store results in variables and display them.
 
         
 Part 4: User Input and Operations
